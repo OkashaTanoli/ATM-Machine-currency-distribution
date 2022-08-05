@@ -15,7 +15,6 @@ results would be like this.
  \
  \
  \
-
 Currency Note  :    Number \
 500            :    94\
 100            :    4\
