@@ -12,7 +12,9 @@ notes of his preferred choice.
 For example: when a user enters a number, Rs. 57477 and enters 50 notes as his preferred choice, the
 results would be like this.
 
-
+ \
+ \
+ \
 
 Currency Note  :    Number \
 500            :    94\
@@ -21,4 +23,4 @@ Currency Note  :    Number \
 20             :    3\
 10             :    1\
 5              :    1\
-1              :    2\
+1              :    2
